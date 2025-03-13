@@ -5,10 +5,10 @@ Welcome to the heart of our sales analysis! This repository showcases a focused 
 
 ## What's Inside This Treasure Chest? 📦
 
-- **Dashboard Snapshot:** The image above gives you a bird's-eye view of our Southern sales analysis.
-- **[Tableau Workbook (.twb/.twbx)]:** The interactive Tableau workbook, allowing you to explore the data firsthand.
-- **[Data Source (CSV/Excel)]:** The dataset fueling our analysis, enabling you to recreate and expand upon our findings.
-- **This README.md:** Your trusty guide to navigating this data-driven journey.
+- Dashboard Snapshot: The image above gives you a bird's-eye view of our Southern sales analysis.
+- Tableau Workbook (.twb/.twbx): The interactive Tableau workbook, allowing you to explore the data firsthand.
+- Data Source (CSV/Excel): The dataset fueling our analysis, enabling you to recreate and expand upon our findings.
+- This is the README.md: Your trusty guide to navigating this data-driven journey.
 
 ## Unpacking the Visual Narrative 🗺️📈
 
